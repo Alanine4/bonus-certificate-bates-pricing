@@ -4,7 +4,7 @@ Design, valuation and delta hedge of a Bonus Certificate on Delta Air Lines (DAL
 
 Pricing date is 16 May 2025 and the certificate matures on 19 September 2025, the expiry of the listed options used for calibration.
 
-Coursework project for Financial Engineering, Master of Actuarial and Financial Engineering, KU Leuven (2025). The full write-up is in [`report/Bonus_Certificate_Report.pdf`](report/Bonus_Certificate_Report.pdf).
+The full write-up is in [`report/Bonus_Certificate_Report.pdf`](report/Bonus_Certificate_Report.pdf).
 
 <p align="center">
   <img src="figures/calibration_iv.png" width="48%" alt="Market vs model implied volatility">
